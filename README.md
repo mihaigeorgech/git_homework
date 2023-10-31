@@ -1,14 +1,14 @@
-#What is GIT
+# What is GIT
 -it's a distributed version control system
 -it's commonly used for tracking changes in source code during software development
 
 
-#Understanding GIT 
+# Understanding GIT 
 Think of Git as a time machine for your work. 
 GIT saves snapshots of your project's progress, making it possible to go back to any point in time.
 Which is very helpful since in case something goes wrong, you can go back to the previously working version.
 
-#GIT Commands
+# GIT Commands
 * `GIT CLONE <REMOTE REPO LINK>` - CLONE THE REPOSITORY FROM THE REMOTE
 * `GIT STATUS` - SHOW STATUS OF CURRENT HEAD
 * `GIT CONFIG --GLOBAL USER.NAME/USER.EMAIL`
@@ -33,3 +33,9 @@ Which is very helpful since in case something goes wrong, you can go back to the
 * `GIT SQUASH` - COMBINE MORE COMMITS INTO ONE
 * `GIT RESET [--SOFT | --HARD] <COMMIT> [<FILENAME>]` - RESETTING REPO WITHOUT CREATING NEW COMMIT
 * `GIT REVERT "<COMMIT_NAME>"` - RESETTING REPO WITH NEW COMMIT
+
+
+# Last Commit
+* Challanges: No challenges so far from my side
+* New things: **git squash** was something new for me, I've known about **rebase** but not this
+* Feedback: The article was interactive and easy to understand
