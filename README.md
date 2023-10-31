@@ -33,3 +33,9 @@ Which is very helpful since in case something goes wrong, you can go back to the
 * `GIT SQUASH` - COMBINE MORE COMMITS INTO ONE
 * `GIT RESET [--SOFT | --HARD] <COMMIT> [<FILENAME>]` - RESETTING REPO WITHOUT CREATING NEW COMMIT
 * `GIT REVERT "<COMMIT_NAME>"` - RESETTING REPO WITH NEW COMMIT
+
+
+# Last Commit
+* Challanges: No challenges so far from my side
+* New things: **git squash** was something new for me, I've known about **rebase** but not this
+* Feedback: The article was interactive and easy to understand
